@@ -15,4 +15,5 @@ public class LoanDetails {
     Float interestRate;
     Float sanctionedPercentage;
     Double processingFees;
+    String alert;
 }

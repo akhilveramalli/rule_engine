@@ -18,4 +18,5 @@ public class UserDetails {
     String bank;
     Integer cibilScore;
     Double requestedLoanAmount;
+    Integer temperature;
 }
